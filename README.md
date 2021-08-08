@@ -6,5 +6,5 @@ Just clone the code by:
 
     git clone https://github.com/ShubhamProgmer/LeaveApplicationGen
 
-Provide the inputs required and then access the txt file from location C;\
+Provide the inputs required and then access the txt file from location C:\\
 Enjoy!
